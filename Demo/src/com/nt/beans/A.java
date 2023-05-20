@@ -1,5 +1,10 @@
 package com.nt.beans;
 
-public class A {
+import java.util.Date;
 
+public class A {
+	public Date getDate() {
+		return new Date();
+	
+	}
 }

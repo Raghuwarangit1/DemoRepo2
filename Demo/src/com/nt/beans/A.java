@@ -17,5 +17,8 @@ public class A {
 	public void m6(){
 		System.out.println("hello");
 	}
+	public void m7(){
+		System.out.println("hello");
+	}
 }
 	
